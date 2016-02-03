@@ -1,0 +1,12 @@
+--- 
+__version: '2.1'
+hoodoopro.com: 
+  account_count: 1
+  accounts: 
+    info: 
+      disk_mtime: '1454344471'
+      diskquota: 262144000
+      diskused: 25451
+  disk_mtime: '1454344471'
+  passwd_mtime: '1454344471'
+  quota_mtime: '1454344471'
