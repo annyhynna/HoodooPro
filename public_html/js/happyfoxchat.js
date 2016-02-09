@@ -1,4 +1,4 @@
-    <!--Start of HappyFox Live Chat Script-->
+  //Start of HappyFox Live Chat Script-->
     
     window.HFCHAT_CONFIG = {
          EMBED_TOKEN: "544cca30-ced6-11e5-8f92-1b85d2156a63",
@@ -17,4 +17,4 @@
       s.parentNode.insertBefore(scriptTag, s);
     })();
 
-    <!--End of HappyFox Live Chat Script-->
+   // <!--End of HappyFox Live Chat Script-->
